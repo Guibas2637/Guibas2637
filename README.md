@@ -1,16 +1,19 @@
-## Hi there 👋
+i love she 👋
 
-<!--
-**Guibas2637/Guibas2637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome È Guilhrme Machado AndradE
 
-Here are some ideas to get you started:
+-estou estudando alura ome: [GUilherme machado andrade]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Programador Apaixonado | Entusiasta de Tecnologia | Solucionador de Problemas
+
+ Habilidades Técnicas:
+ 
+Minhas principais habilidades incluem:
+
+Linguagens de Programação: [Liste as linguagens que domina, como Python, JavaScript, Java, etc.]
+Frameworks e Bibliotecas: [Liste os frameworks e bibliotecas relevantes que utiliza, como React, Angular, Django, etc.]
+Banco de Dados: [Descreva suas habilidades em bancos de dados, como MySQL, PostgreSQL, MongoDB, etc.]
+Ferramentas de Desenvolvimento: [Mencione ferramentas que você domina, como Git, Docker, Visual Studio Code, etc.]
+
+contato:
+Estou sempre aberto a novas oportunidades e colaborações interessantes. Sinta-se à vontade para entrar em contato comigo por meio do meu e-mail: [00001097719765sp@al.educacao.sp.gov.br] ou conectar-se comigo 
